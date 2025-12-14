@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
